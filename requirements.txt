@@ -1,0 +1,9 @@
+django
+djangorestframework
+python-dotenv
+pydantic
+langchain
+langchain-anthropic
+pypdf
+pandas
+django-cors-headers
